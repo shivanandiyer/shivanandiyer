@@ -9,6 +9,10 @@ I'm passionate about helping enterprises move from fragmented data to governed, 
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/shivanandiyer)
 - 🌐 Portfolio: [shivaiyer.lovable.app](https://shivaiyer.lovable.app)
 
+## Tech Stack
+![Skills](https://skillicons.dev/icons?i=python,databricks,azure,aws,git,github,mysql,tableau)
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanandiyer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivaiyer.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shivaiyer.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanandiyer)
